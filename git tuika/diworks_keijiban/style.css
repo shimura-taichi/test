@@ -1,0 +1,117 @@
+header ul{float:left;
+  width: 100%;
+  background-color: black;
+}
+
+header ul li{
+float:left;
+list-style: none;
+padding-left: 20px;
+color: white;
+font-size: 15px;
+line-height: 60px;
+}
+
+img.diblog_logo.jpg{
+width: 200px;
+}
+
+
+body{
+  font-family: "Hiragino Kaku Gothic} proN","メイリオ",sans-serif;
+}
+
+.main{
+  clear: both;
+}
+
+.left{
+  float: left;
+  width: 67%;
+}
+
+.left h1{
+  border-bottom: 3px solid gray;
+  border-left: 4px solid black;
+  float: left;
+  width: 67%;
+}
+
+.left h2{
+  float: left;
+  margin: 0 auto ;
+  margin-top: 3px;
+  margin-bottom: 20px;
+  border-left: 4px  solid red;
+  background-color: #f1f1f1;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  width: 67%;
+  font-size: 20px;
+}
+
+form{
+  float: left;
+  margin: 0 auto;
+  background-color: #f1f1f1;
+  border: 3px solid #ebebeb;
+  width: 100%;
+}
+
+.left,div{
+  padding: 15px;
+  width: 67%;
+}
+
+.text,textarea,dropdown{
+  
+  border: 1px solid #dfdfdf;
+  padding: 5px;
+  color: #999;
+  background: #fff;
+}
+
+.submit{
+  border: 1px solid lightgray;
+  padding: 4px 10px;
+  color: white;
+  background-color: #bfbfbf;
+  border-radius: 5px;
+  border-bottom: 2px solid gray;
+}
+
+.kiji{
+  float: left;
+  margin-top: 25px;
+  width: 98%;
+  background-color: #f1f1f1;
+}
+.kiji h3{
+  border-bottom: 3px solid #dfdfdf;
+}
+
+
+.right{
+  float: right;
+  width: 28%;
+  
+  
+}
+
+.right h2{
+  border-bottom: 5px dotted gainsboro;
+}
+ 
+footer{ 
+  clear: left;
+  width: 100%;
+  height: 60px;
+  color: white;
+  background-color: black;
+  text-align: center;
+  line-height: 60px;
+  bottom: 0px;
+}
+
+
